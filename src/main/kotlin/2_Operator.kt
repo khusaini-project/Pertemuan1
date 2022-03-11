@@ -4,7 +4,7 @@ fun main() {
     1 baris atau lebih
      */
     /*
-    *dokumentasi
+    *dokumentasi.
      */
     var a = 7
     var b = 6
