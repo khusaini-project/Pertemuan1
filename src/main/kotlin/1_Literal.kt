@@ -5,7 +5,7 @@ fun main() {
     var stringLiteral = "Hello"
     var charLiteral = '1'
     var boolLiteral = true
-    //Tampilkan variabel menggunakan string template,.
+    //Tampilkan variabel menggunakan string template,..
     println("intLiteral = $intLiteral")
     println("doubleLiteral = $doubleLiteral")
     println("stringLiteral = $stringLiteral")
