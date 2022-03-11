@@ -1,5 +1,5 @@
 fun main(args: Array<String>) {
-    //memberi underscore dalam literal agar lebih mudah membaca nilai literalnya
+    //memberi underscore dalam literal agar lebih mudah membaca nilai literalnya.
     val oneMillion = 1_000_000
     val creditCardNumber = 1234_5678_9012_3456L
     val socialSecurityNumber = 999_99_9999L
