@@ -11,4 +11,5 @@ fun main() {
     println("stringLiteral = $stringLiteral")
     println("charLiteral = $charLiteral")
     println("boolLiteral = $boolLiteral")
+    //okS
 }
