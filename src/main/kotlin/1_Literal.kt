@@ -1,5 +1,5 @@
 fun main() {
-    //Deklarasi dan inisialisasi variabel-variabel,.
+    //Deklarasi dan inisialisasi variabel-variabel,..
     var intLiteral = 5
     var doubleLiteral = .02
     var stringLiteral = "Hello"
