@@ -12,5 +12,5 @@ fun main() {
 
     //Diperlukan tanda kurung kurawal untuk melakukan pemrosesan pada saat menggabungkan
     //variabel kedalam template String. Karakter dolar („${'$'}‟) tidak bisa dicetak menggunakan escape
-    //character oleh karena itu gunakan template String untuk mencetaknya.
+    //character oleh karena itu gunakan template String untuk mencetaknya
 }
