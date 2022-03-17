@@ -11,5 +11,5 @@ fun main() {
     c = i.toChar()
     println("The ASCII value of $i was converted to its textual value of $c")
 
-    //Okk
+    //OOKk
 }
